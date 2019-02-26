@@ -48,7 +48,7 @@ module Fastlane
 
       def self.authors
         # So no one will ever forget your contribution to fastlane :) You are awesome btw!
-        ["Leo Valentim"]
+        ["Leo Valentim | https://github.com/LeoValentim"]
       end
 
       def self.is_supported?(platform)
